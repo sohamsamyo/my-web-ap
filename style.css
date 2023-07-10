@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 45px;
+    font-family: cursive;
+    font-weight: 400;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 80px;
+    margin:8px auto;
+}
+#app{
+    background-color: aqua;
+}
+#myCarousel{
+    background-color: rgb(200, 35, 35);
+    
+}
+#myCarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
+#chabot{
+    background-color: coral;
+}
+img{
+    height: 300px;
+}
+.Carousuel-inner p{
+margin-top: 15px;
+color:whitesmoke;
+font-size: 40px;
+
+}
